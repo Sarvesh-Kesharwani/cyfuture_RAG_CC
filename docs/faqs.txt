@@ -1,0 +1,58 @@
+Ordering:
+
+Why am I unable to place orders?
+Answer: This could be due to payment decline, the item being out of stock, a technical issue on the website/app, an undeliverable address, or exceeding quantity limits.
+Can I change or modify orders that are already placed?
+Answer: Generally, you cannot modify items in an order once it's placed. However, you might be able to change shipping preferences before the order ships.
+How can I cancel my order?
+Answer: You can cancel unshipped items through "Your Orders." For shipped items, you can request a cancellation, though it's not always guaranteed.
+How do I track my package?
+Answer: You can track your package in the "Your Orders" section by clicking on "Track Package."
+How to place bulk orders?
+Answer: For bulk orders, you would typically use Amazon Business.
+Returns and Replacements:
+
+What can I return?
+Answer: Most items marked as 'returnable' within the specified return window can be returned if they are damaged, defective, or different from the description.
+What are non-returnable items?
+Answer: These often include consumables like pet food and cleaning products. Specific items will be marked as non-returnable.
+How to return items?
+Answer: Sign in, go to "Your Orders," select the item, choose a return reason, and follow the on-screen instructions.
+Where can I view the status of a return?
+Answer: You can check the status in "Your Orders" by selecting "Return/Refund status."
+Can my order be replaced?
+Answer: Yes, replacements are often available for selected items that are damaged, defective, or different from the description.
+Shipping and Delivery:
+
+Why is my shipment late?
+Answer: Delays can occur due to various reasons, including weather, carrier issues, or processing times. Check the tracking for updates.
+My tracking shows as delivered, but I haven't received the product?
+Answer: Contact Amazon customer service immediately to report this. They will investigate.
+My order is marked undelivered, why?
+Answer: This could be due to access issues, multiple failed delivery attempts, or incorrect address information. Check tracking details or contact the carrier.
+What are the shipping speeds and charges?
+Answer: These vary depending on whether you are a Prime member, the type of item, and the chosen shipping speed. Details are usually provided at checkout.
+Can I reschedule a delivery?
+Answer: In some cases, you might be able to reschedule delivery through the carrier. Check your tracking information for options.
+What if I receive a wrong, damaged, or incorrect shipment?
+Answer: Contact Amazon customer service immediately to report the issue for a resolution (return, replacement, or refund).
+Payment:
+
+How do I check if I am eligible for EMI?
+Answer: EMI options are typically available for credit card holders. Eligibility for debit card EMI and Amazon Pay Later can usually be checked on the payment selection page during checkout.
+What payment methods are accepted?
+Answer: Amazon generally accepts major credit and debit cards, net banking, UPI, Amazon Pay balance, and sometimes cash on delivery.
+Other:
+
+What qualifies as damaged or defective products?
+Answer: This includes items that are not working, have visible damage, a broken seal, missing parts, the wrong size or color, or do not match the product description.
+How to identify a wrong item?
+Answer: Compare the received item to the product details and images in your "Your Orders" section.
+What is the refund timeline?
+Answer: Refund timelines vary by payment method but usually process within a few business days after Amazon initiates the refund. It can take additional time for the funds to appear in your account.
+What is a Protection Plan?
+Answer: This is an optional extended warranty or service agreement that can be purchased for certain products.
+Does the product include installation?
+Answer: Whether installation is included depends on the specific product. Check the product detail page for this information.
+How can I modify, cancel, or reschedule the installation slot?
+Answer: You would typically need to contact the service provider whose details are usually available on the product page or in your order confirmation.

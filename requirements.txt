@@ -1,0 +1,11 @@
+fastapi 
+uvicorn 
+pydantic 
+sqlalchemy
+
+langchain 
+openai 
+faiss-cpu 
+pypdf 
+chromadb
+email-validator
