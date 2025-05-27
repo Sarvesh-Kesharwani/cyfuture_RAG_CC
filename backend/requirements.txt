@@ -4,9 +4,11 @@ pydantic
 sqlalchemy
 
 langchain 
+langchain_community
 openai 
 faiss-cpu 
 pypdf 
 chromadb
 email-validator
 tiktoken
+pypdf
