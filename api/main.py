@@ -20,6 +20,9 @@ def get_db():
 @app.post("/complaints", response_model=schemas.ComplaintIDResponse)
 def create_complaint(complaint: schemas.ComplaintCreate, db: Session = Depends(get_db)):
     complaint_id = str(uuid4())
+    # using rag chain to extrat complaint information
+
+    # registering new complaint and adding to db
     new_complaint = models.Complaint(
         complaint_id=complaint_id,
         name=complaint.name,
