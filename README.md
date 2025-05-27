@@ -7,3 +7,11 @@ OR
     `uvicorn backend.main:app --reload`
 
 to start frontend: `streamlit run frontend/streamlit_app.py`
+
+
+
+backend setup:
+
+from root dir
+
+python -m backend.create_tables
