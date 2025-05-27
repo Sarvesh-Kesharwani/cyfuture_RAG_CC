@@ -1,5 +1,6 @@
 from pydantic import BaseModel, EmailStr, constr, Field, model_validator
 from typing import Annotated
+from datetime import datetime
 
 
 # Request schema for complaint creation
@@ -24,10 +25,10 @@ class ComplaintResponse(BaseModel):
     phone_number: str
     email: str
     complaint_details: str
-    created_at: str
+    created_at: datetime  # <-- use datetime, not str
 
     class Config:
-        from_attributes = True
+        orm_mode = True
 
 
 # Response schema after creating a complaint
